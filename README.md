@@ -1,10 +1,13 @@
 # Hi there 👋
+
+<img src='Aboutme.gif'>
+
 ### Quick Facts
 - 🔭  I'm a Full Stack Web Programmer.
 - 💬 You can check [My Website](https://hsu-hui.github.io/Resume/index.html) for more details about me.
 - 🌱  I'm on track for learning more about Artificial Intelligence,Data Analysis,Data Science,and Computer Vision.
 - 🎮  In my free time, I play Nintendo Switch games and do side project as my hobbies.
-- ⚡ Fun fact: Front-End? Back-End? Learning never ends.
+- ⚡ Fun fact: Front-End? Back-End? No,Learning is never ends.
 
 <!--
 **Hsu-Hui/Hsu-Hui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -50,3 +53,4 @@ Here are some ideas to get you started:
 
 ### CONTACT
 <a href="mailto:A3218484@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" height='25px'/></a>
+
