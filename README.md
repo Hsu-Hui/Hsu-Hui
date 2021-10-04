@@ -46,7 +46,6 @@ Here are some ideas to get you started:
 <img src='https://img.shields.io/badge/-QGIS-05122A?style=for-the-badge&logo=QGIS' height='25px'>
             </td>
             <td style="border:0;">
-#### 📰 Software and tools
 <a href="https://app.daily.dev/Ryan_Hsu"><img src="https://api.daily.dev/devcards/b5dfca1ebaab4d4d8729070999ec45e8.png?r=ler" width="550" alt="Hui-Ting Hsu's Dev Card"/></a>
             </td>
         </tr>
