@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 <table style="margin-left: auto; margin-right: auto;border:0;">
         <tr>
             <td>
+
 #### 👩‍💻 Programming languages
 <img src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black' height='25px'> <img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white' height='25px'> <img src='https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white' height='25px'> <img src='https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white' height='25px'> <img src='https://img.shields.io/badge/-Vue.js-%232c3e50?style=for-the-badge&logo=Vue.js' height='25px'> <img src='https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white' height='25px'> <img src='https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white' height='25px'> <img src='https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white' height='25px'> <img src='https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python' height='25px'>
 
@@ -46,7 +47,7 @@ Here are some ideas to get you started:
             </td>
             <td>
 #### 📰 Software and tools
-                <a href="https://app.daily.dev/Ryan_Hsu"><img src="https://api.daily.dev/devcards/b5dfca1ebaab4d4d8729070999ec45e8.png?r=ler" width="400" alt="Hui-Ting Hsu's Dev Card"/></a>
+<a href="https://app.daily.dev/Ryan_Hsu"><img src="https://api.daily.dev/devcards/b5dfca1ebaab4d4d8729070999ec45e8.png?r=ler" width="800" alt="Hui-Ting Hsu's Dev Card"/></a>
             </td>
         </tr>
     </table>
